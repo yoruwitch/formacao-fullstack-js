@@ -1,6 +1,6 @@
+import "./style.css";
 import profile from "../../images/perfil.svg";
 import shopbag from "../../images/sacola.svg";
-import "./style.css";
 
 const icons = [profile, shopbag];
 
