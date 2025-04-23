@@ -1,0 +1,19 @@
+.options {
+    display: flex;
+}
+
+.option {
+    font-size: 16px;
+    min-width: 120px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    padding: 0 5px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.option:hover {
+    background-color: antiquewhite;
+}
